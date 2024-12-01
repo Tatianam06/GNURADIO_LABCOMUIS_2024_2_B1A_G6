@@ -6,5 +6,5 @@ Para trabajar el ruido blanco gaussiano, se elaboró un esquema el cual tenía c
 
 ![Señal sinruido](https://github.com/Tatianam06/GNURADIO_LABCOMUIS_2024_2_B1A_G6/blob/ParteA2/senal_sin_ruido.png)
 
-Luego, se conectó una antena a nuestro radio en la parte de recepción de señales, y se apuntó la antena hija a la antena madre para así poder captar el espectro de la señal que se estaba transmitiendo, como se puede lograr observar a continuación.
+Luego, se conectó una antena a nuestro radio en la parte de recepción de señales, y se apuntó la antena hija a la antena madre para así poder captar el espectro de la señal que se estaba transmitiendo, se estimó su ancho de banda mediante el uso de marcadores,y su potencia más alta, como se puede lograr observar a continuación.
 ![Señal receptora](https://github.com/Tatianam06/GNURADIO_LABCOMUIS_2024_2_B1A_G6/blob/ParteB2/senal_antena_receptora.jpg)
